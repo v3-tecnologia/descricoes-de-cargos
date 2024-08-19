@@ -81,7 +81,7 @@ Procuramos pessoas com fortes habilidades em desenvolvimento de software e exper
 
 ## ⏱️ Carga Horária
 
-Esta posição é de tempo integral, exigindo **40 horas** de trabalho por semana;
+Esta posição é de tempo integral, exigindo **44 horas** de trabalho por semana;
 
 ## 💰Modelo de Trabalho
 

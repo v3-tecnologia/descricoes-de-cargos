@@ -124,11 +124,14 @@ Caso você queira, iremos fornecer um _feedback_ caso você não seja aprovado e
 
 ## ✉️ Como devo aplicar?
 
-Envie para diogo.batista@v3.com.br com o assunto "Tech Lead Backend na V3 - Nome Completo".
+Envie para diogo.batista@v3.com.br com o assunto "Tech Lead Backend - Nome Completo".
+
+> 🚨 O assunto precisa ser EXATAMENTE igual ao descrito!
 
 No corpo do e-mail coloque:
 
 - URL do seu Linkedin;
 - URL do seu GitHub;
+- Opacionalmente, WhatsAPP para facilitar o Contato;
 - Opcionalmente, você pode anexar seu Currículo;
 - Comente brevemente por que gostaria de fazer parte da V3!

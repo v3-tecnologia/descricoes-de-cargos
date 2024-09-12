@@ -1,6 +1,6 @@
 # Desenvolvedor Pleno Android Embarcado na V3
 
-Estamos contratando um Tech Lead para se juntar a V3 e liderar uma de nossas equipes com foco na construção do firmware que utilizamos em nossos dispositivos de videotelemetria.
+Estamos contratando um Desenvolvedor Pleno para se juntar a V3 e ajudar uma de nossas equipes com foco na construção do firmware que utilizamos em nossos dispositivos de videotelemetria, com ênfase no desenvolvimento em Java/Kotlin para sistemas embarcados.
 
 ## 🚙 Sobre a V3
 
@@ -38,7 +38,13 @@ A aplicação também é responsável por ser a interface de comunicação com o
 
 Sua missão será **compreender**, **avaliar** e **evoluir** os o firmware utilizando as melhores práticas de mercado para a construção nativa de de aplicações Android, utilizando **Java** e **Kotlin**.
 
-Procuramos alguém com **experiência** em **desenvolvimento Java + Kotlin**.
+🚨 **IMPORTANTE** 🚨
+
+Buscamos alguém com:
+
+- Experiência em Java e Kotlin para desenvolvimento nativo Android em sistemas embarcados;
+- Experiência com aplicações multi-thread, otimizadas para processador/memória/storage limitados;
+- Conhecimento de comunicação com sensores e gerenciamento de dados em dispositivos sem interface de usuário.
 
 ## 📸 Quem é você?
 

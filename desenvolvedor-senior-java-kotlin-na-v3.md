@@ -134,7 +134,7 @@ Caso você queira, iremos fornecer um _feedback_ caso você não seja aprovado e
 
 ## ✉️ Como devo aplicar?
 
-Envie para diogo.batista@v3.com.br com o assunto "Desenvolvedor Pleno Android Embarcado - Nome Completo".
+Envie para diogo.batista@v3.com.br com o assunto "Desenvolvedor Sênior Java e Kotlin na V3 - SEU NOME COMPLETO".
 
 > 🚨 O assunto precisa ser EXATAMENTE igual ao descrito!
 

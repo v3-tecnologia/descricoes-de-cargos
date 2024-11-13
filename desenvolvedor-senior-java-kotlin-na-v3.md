@@ -109,7 +109,6 @@ Estamos contratando no modelo de trabalho **CLT**;
   - **Caso você seja de SP (Bradesco)** - A empresa arca com 100% da mensalidade dos colaboradores e dependentes (legais e diretos, ex: cônjuge por lei e filhos) e o colaborador é responsável pelo pagamento da coparticipação (exames, consultas e demais procedimentos) que são descontados em folha de pagamento conforme utilização. Para esse benefício a coparticipação é de 30% do valor do procedimento;
 - **Day Off Aniversário** - Todos os colaboradores têm direito a uma folga sem desconto no banco de horas por ter feito aniversário;
 - **Volta às aulas** - Sabemos que a volta às aulas é um período de muitos gastos na vida dos pais, por isso, para ajudar nossos colaboradores nessa missão, creditamosum valor especial no cartão Flash;
-- **Convênio com SESC** - Disponível para todos os colaboradores que tiverem interesse, o convênio dá descontos em atividades do SESC e em sua rede hoteleira em todo o Brasil;
 - **Licença Luto** - Sabemos que o luto é um momento muito difícil e delicado na vida de todos, por isso, para ajudar a família dos colaboradores envolvidos nesta situação, a V3 dobrou o período de licença previsto na legislação em caso de falecimento de avós, pais, filhos, irmãos ou cônjuges;
 - **Vale Alimentação/Refeição** - Uma ajuda mensal que vai no seu cartão Flash;
 - **Seguro de vida (Obrigatório)** - É uma obrigação do colaborador, mas que pode ajudar em um momento inapropriado;

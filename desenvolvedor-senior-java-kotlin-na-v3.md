@@ -27,7 +27,7 @@ Na V3 temos um time multidisciplinar, e você terá uma ampla variedade de respo
 
 ### 1. Domínio em Java
 
-- **Experiência em Java**: Proficiência em Java, com sólidos conhecimentos da linguagem e seus principais frameworks (Spring, Spring Boot).
+- **Experiência em Java**: Profissional altamente experiente em Java, com domínio em padrões de projeto, arquitetura de código robusta, programação multi-thread, e soluções otimizadas para ambientes com restrições de memória e processamento.
 - **Manutenção de Código**: Capacidade de analisar e refatorar código legado, tornando-o mais performático, padronizado e legível.
 - **Boas Práticas**: Aplicação de princípios SOLID, Clean Code e uso de design patterns.
 
